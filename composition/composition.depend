@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1540243466 source:c:\users\soner güçlü\documents\c++\codeblocks\composition\main.cpp
+	<iostream>
+	"deathday.h"
+	"people.h"
+
+1540242714 c:\users\soner güçlü\documents\c++\codeblocks\composition\deathday.h
+
+1540044842 c:\users\soner güçlü\documents\c++\codeblocks\composition\people.h
+	<string>
+	"deathday.h"
+
+1540242714 source:c:\users\soner güçlü\documents\c++\codeblocks\composition\deathday.cpp
+	<iostream>
+	"deathday.h"
+

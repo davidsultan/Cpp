@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541137105 source:c:\users\soner güçlü\documents\c++\codeblocks\axam practise\main.cpp
+	<iostream>
+
+1542094587 source:c:\users\soner güçlü\documents\c++\codeblocks\exam practise\main.cpp
+	<iostream>
+	<cmath>
+

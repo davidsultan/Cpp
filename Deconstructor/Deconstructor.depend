@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1539526689 source:c:\users\soner güçlü\documents\c++\codeblocks\deconstructor\main.cpp
+	<iostream>
+	"aclass.h"
+
+1539526689 c:\users\soner güçlü\documents\c++\codeblocks\deconstructor\aclass.h
+
+1539526707 source:c:\users\soner güçlü\documents\c++\codeblocks\deconstructor\aclass.cpp
+	<iostream>
+	"aclass.h"
+
